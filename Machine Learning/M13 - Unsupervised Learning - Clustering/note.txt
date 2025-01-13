@@ -1,0 +1,8 @@
+Link dataset:
+https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation
+
+Link slide presentasi:
+https://www.canva.com/design/DAGZVncsnao/Cx97ZdYdaY1h2e-3vbfL1Q/edit?utm_content=DAGZVncsnao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Link notebook:
+https://colab.research.google.com/drive/1uWaDLW2X-mRETMxF7mXnqWXktYK5-KfB?usp=sharing

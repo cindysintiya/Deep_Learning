@@ -1,0 +1,30 @@
+sumber dataset: https://www.kaggle.com/code/pouyaaskari/automobile-dataset/notebook
+
+Kolom n tipe data:
+ 0   symboling          205 non-null    int64  
+ 1   normalized-losses  205 non-null    object 
+ 2   make               205 non-null    object 
+ 3   fuel-type          205 non-null    object 
+ 4   aspiration         205 non-null    object 
+ 5   num-of-doors       205 non-null    object 
+ 6   body-style         205 non-null    object 
+ 7   drive-wheels       205 non-null    object 
+ 8   engine-location    205 non-null    object 
+ 9   wheel-base         205 non-null    float64
+ 10  length             205 non-null    float64
+ 11  width              205 non-null    float64
+ 12  height             205 non-null    float64
+ 13  curb-weight        205 non-null    int64  
+ 14  engine-type        205 non-null    object 
+ 15  num-of-cylinders   205 non-null    object 
+ 16  engine-size        205 non-null    int64  
+ 17  fuel-system        205 non-null    object 
+ 18  bore               205 non-null    object 
+ 19  stroke             205 non-null    object 
+ 20  compression-ratio  205 non-null    float64
+ 21  horsepower         205 non-null    object 
+ 22  peak-rpm           205 non-null    object 
+ 23  city-mpg           205 non-null    int64  
+ 24  highway-mpg        205 non-null    int64  
+ 25  price              205 non-null    object 
+dtypes: float64(5), int64(5), object(16)
